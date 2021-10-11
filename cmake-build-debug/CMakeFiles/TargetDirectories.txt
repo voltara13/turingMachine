@@ -1,4 +1,0 @@
-C:/Users/stalk/CLionProjects/turingMachine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/stalk/CLionProjects/turingMachine/cmake-build-debug/CMakeFiles/turingMachine.dir
-C:/Users/stalk/CLionProjects/turingMachine/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/stalk/CLionProjects/turingMachine/cmake-build-debug/CMakeFiles/turingMachine_autogen.dir

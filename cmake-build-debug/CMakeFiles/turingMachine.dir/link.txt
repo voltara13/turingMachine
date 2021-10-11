@@ -1,3 +1,0 @@
-"D:\Soft\JetBrains Toolbox App\apps\CLion\ch-0\212.5284.51\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\turingMachine.dir/objects.a
-D:\Soft\Qt\Tools\mingw810_64\bin\ar.exe cr CMakeFiles\turingMachine.dir/objects.a @CMakeFiles\turingMachine.dir\objects1.rsp
-D:\Soft\Qt\Tools\mingw810_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\turingMachine.dir/objects.a -Wl,--no-whole-archive -o turingMachine.exe -Wl,--out-implib,libturingMachine.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\turingMachine.dir\linklibs.rsp
